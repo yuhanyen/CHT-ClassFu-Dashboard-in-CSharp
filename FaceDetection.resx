@@ -1,0 +1,1940 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="chartEmotion.Location" type="System.Drawing.Point, System.Drawing">
+    <value>379, 61</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="chartEmotion.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="chartEmotion.Size" type="System.Drawing.Size, System.Drawing">
+    <value>449, 380</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="chartEmotion.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="chartEmotion.Text" xml:space="preserve">
+    <value>情緒統計</value>
+  </data>
+  <data name="&gt;&gt;chartEmotion.Name" xml:space="preserve">
+    <value>chartEmotion</value>
+  </data>
+  <data name="&gt;&gt;chartEmotion.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataVisualization.Charting.Chart, System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</value>
+  </data>
+  <data name="&gt;&gt;chartEmotion.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;chartEmotion.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="chartConcentration.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="chartConcentration.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 46</value>
+  </data>
+  <data name="chartConcentration.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="chartConcentration.Size" type="System.Drawing.Size, System.Drawing">
+    <value>971, 120</value>
+  </data>
+  <data name="chartConcentration.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="chartConcentration.Text" xml:space="preserve">
+    <value>chart1</value>
+  </data>
+  <data name="&gt;&gt;chartConcentration.Name" xml:space="preserve">
+    <value>chartConcentration</value>
+  </data>
+  <data name="&gt;&gt;chartConcentration.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataVisualization.Charting.Chart, System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</value>
+  </data>
+  <data name="&gt;&gt;chartConcentration.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;chartConcentration.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="bindingNavigatorMoveFirstItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 23</value>
+  </data>
+  <data name="bindingNavigatorMovePreviousItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 23</value>
+  </data>
+  <data name="bindingNavigatorSeparator.Size" type="System.Drawing.Size, System.Drawing">
+    <value>6, 6</value>
+  </data>
+  <data name="bindingNavigatorPositionItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="bindingNavigatorCountItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 23</value>
+  </data>
+  <data name="bindingNavigatorSeparator1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>6, 6</value>
+  </data>
+  <data name="bindingNavigatorMoveNextItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 23</value>
+  </data>
+  <data name="bindingNavigatorMoveLastItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 23</value>
+  </data>
+  <data name="bindingNavigatorSeparator2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>6, 6</value>
+  </data>
+  <data name="bindingNavigatorAddNewItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 23</value>
+  </data>
+  <data name="bindingNavigatorDeleteItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 23</value>
+  </data>
+  <data name="employeeBindingNavigatorSaveItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>23, 23</value>
+  </data>
+  <data name="pictureBox16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 50</value>
+  </data>
+  <data name="pictureBox16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>924, 506</value>
+  </data>
+  <data name="pictureBox16.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox16.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pictureBox16.Name" xml:space="preserve">
+    <value>pictureBox16</value>
+  </data>
+  <data name="&gt;&gt;pictureBox16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox16.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox16.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="groupBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 85</value>
+  </data>
+  <data name="groupBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="groupBox1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1008, 580</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>  Camera Source</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label22.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label22.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label22.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>228, 177</value>
+  </data>
+  <data name="label22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 41</value>
+  </data>
+  <data name="label22.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label22.Text" xml:space="preserve">
+    <value>/</value>
+  </data>
+  <data name="&gt;&gt;label22.Name" xml:space="preserve">
+    <value>label22</value>
+  </data>
+  <data name="&gt;&gt;label22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label22.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label22.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label14.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 177</value>
+  </data>
+  <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 41</value>
+  </data>
+  <data name="label14.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label14.Name" xml:space="preserve">
+    <value>label14</value>
+  </data>
+  <data name="&gt;&gt;label14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label14.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label21.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label21.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label21.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label21.Location" type="System.Drawing.Point, System.Drawing">
+    <value>228, 395</value>
+  </data>
+  <data name="label21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 41</value>
+  </data>
+  <data name="label21.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label21.Text" xml:space="preserve">
+    <value>/</value>
+  </data>
+  <data name="&gt;&gt;label21.Name" xml:space="preserve">
+    <value>label21</value>
+  </data>
+  <data name="&gt;&gt;label21.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label21.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label21.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label11.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 395</value>
+  </data>
+  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 41</value>
+  </data>
+  <data name="label11.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label11.Name" xml:space="preserve">
+    <value>label11</value>
+  </data>
+  <data name="&gt;&gt;label11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label11.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label11.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="label20.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label20.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label20.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>228, 293</value>
+  </data>
+  <data name="label20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 41</value>
+  </data>
+  <data name="label20.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label20.Text" xml:space="preserve">
+    <value>/</value>
+  </data>
+  <data name="&gt;&gt;label20.Name" xml:space="preserve">
+    <value>label20</value>
+  </data>
+  <data name="&gt;&gt;label20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label20.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label20.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>292, 293</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 41</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>0%</value>
+  </data>
+  <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label12.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 293</value>
+  </data>
+  <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 41</value>
+  </data>
+  <data name="label12.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label12.Name" xml:space="preserve">
+    <value>label12</value>
+  </data>
+  <data name="&gt;&gt;label12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label12.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="pictureBox20.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 149</value>
+  </data>
+  <data name="pictureBox20.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 92</value>
+  </data>
+  <data name="pictureBox20.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox20.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox20.Name" xml:space="preserve">
+    <value>pictureBox20</value>
+  </data>
+  <data name="&gt;&gt;pictureBox20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox20.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox20.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>292, 177</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 41</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>0%</value>
+  </data>
+  <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label18.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label18.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label18.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>228, 79</value>
+  </data>
+  <data name="label18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 41</value>
+  </data>
+  <data name="label18.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>/</value>
+  </data>
+  <data name="&gt;&gt;label18.Name" xml:space="preserve">
+    <value>label18</value>
+  </data>
+  <data name="&gt;&gt;label18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label18.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label18.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="pictureBox19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 359</value>
+  </data>
+  <data name="pictureBox19.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 92</value>
+  </data>
+  <data name="pictureBox19.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox19.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox19.Name" xml:space="preserve">
+    <value>pictureBox19</value>
+  </data>
+  <data name="&gt;&gt;pictureBox19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox19.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox19.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label13.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>164, 79</value>
+  </data>
+  <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 41</value>
+  </data>
+  <data name="label13.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label13.Name" xml:space="preserve">
+    <value>label13</value>
+  </data>
+  <data name="&gt;&gt;label13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label13.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label13.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>292, 79</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 41</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>0%</value>
+  </data>
+  <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="pictureBox17.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 44</value>
+  </data>
+  <data name="pictureBox17.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 92</value>
+  </data>
+  <data name="pictureBox17.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox17.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox17.Name" xml:space="preserve">
+    <value>pictureBox17</value>
+  </data>
+  <data name="&gt;&gt;pictureBox17.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox17.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox17.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="pictureBox18.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 254</value>
+  </data>
+  <data name="pictureBox18.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 92</value>
+  </data>
+  <data name="pictureBox18.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox18.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox18.Name" xml:space="preserve">
+    <value>pictureBox18</value>
+  </data>
+  <data name="&gt;&gt;pictureBox18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox18.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox18.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>292, 395</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 41</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>0%</value>
+  </data>
+  <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="groupBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1050, 88</value>
+  </data>
+  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>857, 469</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>Emotional Analysis / Statistics</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBox4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 664</value>
+  </data>
+  <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1010, 183</value>
+  </data>
+  <data name="groupBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="groupBox4.Text" xml:space="preserve">
+    <value>  The Timeline of Atmosphere</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label19.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label19.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 15.75pt, style=Bold</value>
+  </data>
+  <data name="label19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>127, 54</value>
+  </data>
+  <data name="label19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>393, 26</value>
+  </data>
+  <data name="label19.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label19.Text" xml:space="preserve">
+    <value>Classroom Atmosphere Management</value>
+  </data>
+  <data name="label19.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;label19.Name" xml:space="preserve">
+    <value>label19</value>
+  </data>
+  <data name="&gt;&gt;label19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label19.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label19.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>14, 17</value>
+  </metadata>
+  <data name="pictureBox8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>548, 201</value>
+  </data>
+  <data name="pictureBox8.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 106</value>
+  </data>
+  <data name="pictureBox8.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox8.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox8.Name" xml:space="preserve">
+    <value>pictureBox8</value>
+  </data>
+  <data name="&gt;&gt;pictureBox8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox8.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox8.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pictureBox7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 201</value>
+  </data>
+  <data name="pictureBox7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 106</value>
+  </data>
+  <data name="pictureBox7.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox7.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox7.Name" xml:space="preserve">
+    <value>pictureBox7</value>
+  </data>
+  <data name="&gt;&gt;pictureBox7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox7.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox7.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pictureBox9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 201</value>
+  </data>
+  <data name="pictureBox9.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 106</value>
+  </data>
+  <data name="pictureBox9.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox9.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox9.Name" xml:space="preserve">
+    <value>pictureBox9</value>
+  </data>
+  <data name="&gt;&gt;pictureBox9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox9.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox9.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pictureBox10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>548, 334</value>
+  </data>
+  <data name="pictureBox10.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 104</value>
+  </data>
+  <data name="pictureBox10.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox10.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox10.Name" xml:space="preserve">
+    <value>pictureBox10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox10.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox10.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pictureBox11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 334</value>
+  </data>
+  <data name="pictureBox11.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 104</value>
+  </data>
+  <data name="pictureBox11.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox11.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox11.Name" xml:space="preserve">
+    <value>pictureBox11</value>
+  </data>
+  <data name="&gt;&gt;pictureBox11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox11.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox11.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pictureBox21.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox21.Location" type="System.Drawing.Point, System.Drawing">
+    <value>548, 69</value>
+  </data>
+  <data name="pictureBox21.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 105</value>
+  </data>
+  <data name="pictureBox21.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox21.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox21.Name" xml:space="preserve">
+    <value>pictureBox21</value>
+  </data>
+  <data name="&gt;&gt;pictureBox21.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox21.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox21.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="pictureBox22.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 69</value>
+  </data>
+  <data name="pictureBox22.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 105</value>
+  </data>
+  <data name="pictureBox22.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox22.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox22.Name" xml:space="preserve">
+    <value>pictureBox22</value>
+  </data>
+  <data name="&gt;&gt;pictureBox22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox22.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox22.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="pictureBox23.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 334</value>
+  </data>
+  <data name="pictureBox23.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox23.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 104</value>
+  </data>
+  <data name="pictureBox23.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox23.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox23.Name" xml:space="preserve">
+    <value>pictureBox23</value>
+  </data>
+  <data name="&gt;&gt;pictureBox23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox23.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox23.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="pictureBox24.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox24.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 69</value>
+  </data>
+  <data name="pictureBox24.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox24.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 105</value>
+  </data>
+  <data name="pictureBox24.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox24.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox24.Name" xml:space="preserve">
+    <value>pictureBox24</value>
+  </data>
+  <data name="&gt;&gt;pictureBox24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox24.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox24.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label6.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 36pt, style=Bold</value>
+  </data>
+  <data name="label6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>699, 223</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 61</value>
+  </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 36pt, style=Bold</value>
+  </data>
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>430, 223</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 61</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 36pt, style=Bold</value>
+  </data>
+  <data name="label7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 223</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 61</value>
+  </data>
+  <data name="label7.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="label8.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 36pt, style=Bold</value>
+  </data>
+  <data name="label8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>699, 350</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 61</value>
+  </data>
+  <data name="label8.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label8.Name" xml:space="preserve">
+    <value>label8</value>
+  </data>
+  <data name="&gt;&gt;label8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label8.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label9.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 36pt, style=Bold</value>
+  </data>
+  <data name="label9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>430, 350</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 61</value>
+  </data>
+  <data name="label9.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label9.Name" xml:space="preserve">
+    <value>label9</value>
+  </data>
+  <data name="&gt;&gt;label9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="label10.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 36pt, style=Bold</value>
+  </data>
+  <data name="label10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>699, 92</value>
+  </data>
+  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 61</value>
+  </data>
+  <data name="label10.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label10.Name" xml:space="preserve">
+    <value>label10</value>
+  </data>
+  <data name="&gt;&gt;label10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label10.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="label15.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 36pt, style=Bold</value>
+  </data>
+  <data name="label15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 350</value>
+  </data>
+  <data name="label15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 61</value>
+  </data>
+  <data name="label15.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label15.Name" xml:space="preserve">
+    <value>label15</value>
+  </data>
+  <data name="&gt;&gt;label15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label15.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;label15.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="label16.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label16.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 36pt, style=Bold</value>
+  </data>
+  <data name="label16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>430, 92</value>
+  </data>
+  <data name="label16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 61</value>
+  </data>
+  <data name="label16.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label16.Name" xml:space="preserve">
+    <value>label16</value>
+  </data>
+  <data name="&gt;&gt;label16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label16.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;label16.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="label17.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 36pt, style=Bold</value>
+  </data>
+  <data name="label17.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 92</value>
+  </data>
+  <data name="label17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 61</value>
+  </data>
+  <data name="label17.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label17.Name" xml:space="preserve">
+    <value>label17</value>
+  </data>
+  <data name="&gt;&gt;label17.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label17.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;label17.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="groupBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1050, 563</value>
+  </data>
+  <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>857, 462</value>
+  </data>
+  <data name="groupBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>  Real-time Interaction Management </value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Name" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="chart1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="chart1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 46</value>
+  </data>
+  <data name="chart1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="chart1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>969, 120</value>
+  </data>
+  <data name="chart1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="chart1.Text" xml:space="preserve">
+    <value>chart1</value>
+  </data>
+  <data name="&gt;&gt;chart1.Name" xml:space="preserve">
+    <value>chart1</value>
+  </data>
+  <data name="&gt;&gt;chart1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataVisualization.Charting.Chart, System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</value>
+  </data>
+  <data name="&gt;&gt;chart1.Parent" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="&gt;&gt;chart1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="groupBox5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 24pt, style=Bold</value>
+  </data>
+  <data name="groupBox5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 845</value>
+  </data>
+  <data name="groupBox5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1010, 180</value>
+  </data>
+  <data name="groupBox5.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="groupBox5.Text" xml:space="preserve">
+    <value>  People Counting</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.Name" xml:space="preserve">
+    <value>groupBox5</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox5.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pictureBox3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1484, 4</value>
+  </data>
+  <data name="pictureBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 77</value>
+  </data>
+  <data name="pictureBox3.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.Name" xml:space="preserve">
+    <value>pictureBox3</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="pictureBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1577, 4</value>
+  </data>
+  <data name="pictureBox2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>330, 77</value>
+  </data>
+  <data name="pictureBox2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Name" xml:space="preserve">
+    <value>pictureBox2</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="pictureBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 4</value>
+  </data>
+  <data name="pictureBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>282, 87</value>
+  </data>
+  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>30</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 17</value>
+  </data>
+  <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1920, 1037</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 9.75pt</value>
+  </data>
+  <data name="$this.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-10, 0</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>Manual</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ClassFu System</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorMoveFirstItem.Name" xml:space="preserve">
+    <value>bindingNavigatorMoveFirstItem</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorMoveFirstItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorMovePreviousItem.Name" xml:space="preserve">
+    <value>bindingNavigatorMovePreviousItem</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorMovePreviousItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorSeparator.Name" xml:space="preserve">
+    <value>bindingNavigatorSeparator</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorSeparator.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorPositionItem.Name" xml:space="preserve">
+    <value>bindingNavigatorPositionItem</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorPositionItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorCountItem.Name" xml:space="preserve">
+    <value>bindingNavigatorCountItem</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorCountItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorSeparator1.Name" xml:space="preserve">
+    <value>bindingNavigatorSeparator1</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorSeparator1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorMoveNextItem.Name" xml:space="preserve">
+    <value>bindingNavigatorMoveNextItem</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorMoveNextItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorMoveLastItem.Name" xml:space="preserve">
+    <value>bindingNavigatorMoveLastItem</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorMoveLastItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorSeparator2.Name" xml:space="preserve">
+    <value>bindingNavigatorSeparator2</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorSeparator2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorAddNewItem.Name" xml:space="preserve">
+    <value>bindingNavigatorAddNewItem</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorAddNewItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorDeleteItem.Name" xml:space="preserve">
+    <value>bindingNavigatorDeleteItem</value>
+  </data>
+  <data name="&gt;&gt;bindingNavigatorDeleteItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;employeeBindingNavigatorSaveItem.Name" xml:space="preserve">
+    <value>employeeBindingNavigatorSaveItem</value>
+  </data>
+  <data name="&gt;&gt;employeeBindingNavigatorSaveItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;timer1.Name" xml:space="preserve">
+    <value>timer1</value>
+  </data>
+  <data name="&gt;&gt;timer1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FaceDetection</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

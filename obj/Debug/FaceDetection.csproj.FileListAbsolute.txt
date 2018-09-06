@@ -1,0 +1,146 @@
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1_edit\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1_edit\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1_edit\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1_edit\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1_edit\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1_edit\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1_edit\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection1_edit\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_edit\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_edit\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_edit\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_edit\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_edit\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_edit\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_edit\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_edit\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪20161130\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪20161130\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪20161130\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪20161130\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪20161130\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪20161130\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪20161130\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_基隆市長來訪20161130\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_20161220 英文版\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_20161220 英文版\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_20161220 英文版\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_20161220 英文版\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_20161220 英文版\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_20161220 英文版\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_20161220 英文版\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\FaceDetection2_20161220 英文版\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-1\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-1\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-1\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-1\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-1\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-1\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-1\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-1\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-2\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-2\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-2\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-2\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-2\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-2\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-2\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-3\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-3\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-3\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-3\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-3\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-3\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-3\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-3\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-4\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-4\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-4\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-4\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-4\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-4\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-4\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFu_WCIT 1-4\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\bin\haarcascade_eye.xml
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\bin\haarcascade_frontalface_default.xml
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\bin\Example.FaceDetection.exe.config
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\bin\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\bin\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\bin\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFuDashboard\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFuDashboard\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFuDashboard\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFuDashboard\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFuDashboard\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFuDashboard\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFuDashboard\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\ClassFuDashboard\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\CHTFuDashboard\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\CHTFuDashboard\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\CHTFuDashboard\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\CHTFuDashboard\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\CHTFuDashboard\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\CHTFuDashboard\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\CHTFuDashboard\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-x64 2.4.0.1717\Emgu.CV.Example\CHTFuDashboard\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Users\USER01\Desktop\CHTFuDashboard\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Users\USER01\Desktop\CHTFuDashboard\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Users\USER01\Desktop\CHTFuDashboard\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Users\USER01\Desktop\CHTFuDashboard\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Users\USER01\Desktop\CHTFuDashboard\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Users\USER01\Desktop\CHTFuDashboard\obj\Debug\Example.FaceDetection.exe
+C:\Users\USER01\Desktop\CHTFuDashboard\obj\Debug\Example.FaceDetection.pdb
+C:\Users\USER01\bin\Example.FaceDetection.exe.config
+C:\Users\USER01\Desktop\CHTFuDashboard\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Users\USER01\bin\Example.FaceDetection.exe
+C:\Users\USER01\bin\Example.FaceDetection.pdb
+C:\Users\USER01\bin\hsb-DE\Example.FaceDetection.resources.dll
+C:\Users\David\bin\Example.FaceDetection.exe.config
+C:\Users\David\bin\Example.FaceDetection.exe
+C:\Users\David\bin\Example.FaceDetection.pdb
+C:\Users\David\bin\hsb-DE\Example.FaceDetection.resources.dll
+C:\Users\David\Desktop\CHTFuDashboard\obj\Debug\FaceDetection.FaceDetection.resources
+C:\Users\David\Desktop\CHTFuDashboard\obj\Debug\FaceDetection.Properties.Resources.resources
+C:\Users\David\Desktop\CHTFuDashboard\obj\Debug\FaceDetection.FaceDetection.hsb-DE.resources
+C:\Users\David\Desktop\CHTFuDashboard\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\CHTFuDashboard\obj\Debug\hsb-DE\Example.FaceDetection.resources.dll
+C:\Users\David\Desktop\CHTFuDashboard\obj\Debug\Example.FaceDetection.exe
+C:\Users\David\Desktop\CHTFuDashboard\obj\Debug\Example.FaceDetection.pdb
+C:\Users\David\Desktop\CHTFuDashboard\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+C:\Users\函諺\bin\Example.FaceDetection.exe.config
+C:\Users\函諺\Desktop\CHTFuDashboard\obj\Debug\Example.FaceDetection.exe
+C:\Users\函諺\Desktop\CHTFuDashboard\obj\Debug\Example.FaceDetection.pdb
+C:\Users\函諺\Desktop\CHTFuDashboard-Eng\obj\Debug\Example.FaceDetection.exe
+C:\Users\函諺\Desktop\CHTFuDashboard-Eng\obj\Debug\Example.FaceDetection.pdb
